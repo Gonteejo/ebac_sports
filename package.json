@@ -1,6 +1,7 @@
 {
   "name": "loja",
   "version": "0.1.0",
+  "homepage": "https://gonteejo.github.io/ebac_sports/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
